@@ -9,4 +9,5 @@ Juego del ahorcado hecho en C++ utilizando Dev-C++.
 Compilar y ejecutar el archivo `Ahorcado juego en c++ demo.cpp`.
 
 ## Autor
-Hernán Ortega - Año 2025
+Original por Ditecno Digital - https://www.youtube.com/@DitecnoDigital
+Adaptado y Modificado por Hernán Ortega - Año 2025
